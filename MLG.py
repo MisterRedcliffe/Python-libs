@@ -18,5 +18,5 @@ while(loop < 10):
     print("You may think that is this the", noun_3, ",")
     print("Well it is.")
     print("--------------------")
-    # loop back to loop 1
+    //loop back to "loop = 1"
     loop = loop + 1
