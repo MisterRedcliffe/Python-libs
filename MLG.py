@@ -6,9 +6,9 @@ villain_2 = input("what is the name of the other villain: ")
 superhero_universe = input("what superhero universe do you want to be in: ")
 location_1 = input("Where is the first battle take place: ")
 location_2 = input("where is the second battle at: ")
-Name_of_your_podcast = input("name of your superhero podcast: ")
+name_of_your_podcast = input("name of your superhero podcast: ")
 # The story
-print("Hello it's me,", name, " and this is ", Name_of_your_podcast,)
+print("Hello it's me,", name, " and this is ", name_of_your_podcast,)
 print("We are going to review latest edition of", superhero_universe, 'comics.')
 print("We see ", superhero_1, "is fighting ", villain_1,
       " at ", location_1,  " and ", superhero_1, " is winning.")
